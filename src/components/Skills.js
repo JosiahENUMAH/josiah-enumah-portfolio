@@ -2,7 +2,7 @@ import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import html from "../assets/html.png";
 import css from "../assets/css.png";
-import javascript from "../assets/html.png";
+import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import styledComponents from "../assets/styledComponents.png";
