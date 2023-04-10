@@ -88,6 +88,7 @@ const Contact = () => {
                   className="flex justify-between items-start w-full text-white"
                   download={download}
                   target="_blank"
+                  rel="noreferrer"
                 >
                   {child}
                 </a>
