@@ -27,7 +27,18 @@ const Experience = () => {
 
           <div className="text-sm xs:text-xl">
             <p className="mt-1 lg:mt-10">
-              Currently working as a Frontend Software Engineer at{" "}
+              Working as a Frontend Engineer at{" "}
+              <span>
+                <a
+                  href="https://unfairadvantage.fi"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-gray-800 font-bold"
+                >
+                  Unfair Advantage{" "}
+                </a>
+              </span>
+              - an IT, HR and Event Services company in Helsinki, Finland and{" "}
               <span>
                 <a
                   href="https://kingcabana.com"

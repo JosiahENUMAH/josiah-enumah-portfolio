@@ -4,67 +4,88 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import github from "../assets/github.png";
+import meteor from "../assets/meteor.png";
 import styledComponents from "../assets/styledComponents.png";
 import tailwind from "../assets/tailwind.png";
 import bootstrap from "../assets/bootstrap.png";
 import node from "../assets/node.png";
+import mui from "../assets/mui.png";
+import sui from "../assets/sui.png";
+import redux from "../assets/redux.png";
 
 const Skills = () => {
   const techs = [
     {
       id: 1,
-      src: html,
-      title: "HTML",
-      style: "shadow-orange-500",
+      src: node,
+      title: "Node.JS",
+      style: "shadow-green-600",
     },
     {
       id: 2,
-      src: css,
-      title: "CSS",
-      style: "shadow-blue-500",
+      src: reactImage,
+      title: "React.JS",
+      style: "shadow-blue-600",
     },
     {
       id: 3,
+      src: meteor,
+      title: "Meteor.JS",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 4,
       src: javascript,
       title: "JavaScript",
       style: "shadow-yellow-500",
     },
     {
-      id: 4,
-      src: reactImage,
-      title: "React",
-      style: "shadow-blue-600",
+      id: 5,
+      src: redux,
+      title: "Redux ToolKit",
+      style: "shadow-purple-500",
     },
     {
-      id: 5,
+      id: 6,
+      src: html,
+      title: "HTML",
+      style: "shadow-orange-500",
+    },
+    {
+      id: 7,
+      src: css,
+      title: "CSS",
+      style: "shadow-blue-500",
+    },
+    {
+      id: 8,
       src: styledComponents,
       title: "Styled Components",
       style: "shadow-orange-700",
     },
     {
-      id: 6,
+      id: 9,
       src: tailwind,
       title: "Tailwind",
       style: "shadow-sky-400",
     },
     {
-      id: 7,
-      src: node,
-      title: "Node",
-      style: "shadow-green-600",
-    },
-    {
-      id: 8,
+      id: 10,
       src: bootstrap,
       title: "Bootstrap",
       style: "shadow-purple-600",
     },
     {
-      id: 9,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
+      id: 11,
+      src: mui,
+      title: "Material UI",
+      style: "shadow-blue-600",
+    },
+    {
+      id: 12,
+      src: sui,
+      title: "Semantic UI",
+      style: "shadow-green-600",
     },
   ];
 
