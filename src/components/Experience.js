@@ -38,7 +38,7 @@ const Experience = () => {
                   King Cabana Limited{" "}
                 </a>
               </span>
-              - a Tech start up in the Event Management space, and worked with the product development team to build
+              - a Tech start up in the Event Management space, and worked with the product development team to build{" "}
               <span>
                 <a
                   href="https://stafftribes.com"
@@ -49,7 +49,7 @@ const Experience = () => {
                   stafftribes.com{" "}
                 </a>
               </span>
-              at{" "}
+              (a social application) at{" "}
               <span>
                 <a
                   href="https://unfairadvantage.fi"
