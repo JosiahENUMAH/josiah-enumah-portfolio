@@ -27,7 +27,7 @@ const Experience = () => {
 
           <div className="text-sm xs:text-xl">
             <p className="mt-1 lg:mt-10">
-              Working as a Frontend Engineer at{" "}
+              A Frontend Engineer at{" "}
               <span>
                 <a
                   href="https://kingcabana.com"
@@ -38,7 +38,18 @@ const Experience = () => {
                   King Cabana Limited{" "}
                 </a>
               </span>
-              - a Tech start up in the Event Management space and built at{" "}
+              - a Tech start up in the Event Management space, and worked with the product development team to build
+              <span>
+                <a
+                  href="https://stafftribes.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-gray-800 font-bold"
+                >
+                  stafftribes.com{" "}
+                </a>
+              </span>
+              at{" "}
               <span>
                 <a
                   href="https://unfairadvantage.fi"
