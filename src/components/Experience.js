@@ -30,17 +30,6 @@ const Experience = () => {
               Working as a Frontend Engineer at{" "}
               <span>
                 <a
-                  href="https://unfairadvantage.fi"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-gray-800 font-bold"
-                >
-                  Unfair Advantage{" "}
-                </a>
-              </span>
-              - an IT, HR and Event Services company in Helsinki, Finland and{" "}
-              <span>
-                <a
                   href="https://kingcabana.com"
                   target="_blank"
                   rel="noreferrer"
@@ -49,9 +38,20 @@ const Experience = () => {
                   King Cabana Limited{" "}
                 </a>
               </span>
-              - a Tech start up in the Event Management space; utilising
-              React.js, HTML, CSS, JavaScript and other frameworks to develop
-              responsive UI, and integrating client to server side.
+              - a Tech start up in the Event Management space and built at{" "}
+              <span>
+                <a
+                  href="https://unfairadvantage.fi"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-gray-800 font-bold"
+                >
+                  Unfair Advantage{" "}
+                </a>
+              </span>
+              - an IT, HR and Event Services company in Helsinki, Finland; utilising
+              React.js, Meteor.js, HTML, CSS, JavaScript, Redux and other frameworks to develop
+              responsive UI, whilst integrating client to server side.
             </p>
             <br />
             <p>
