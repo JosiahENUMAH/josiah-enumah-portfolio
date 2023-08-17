@@ -3,6 +3,7 @@ import { Typewriter } from "react-simple-typewriter";
 import olympians from "../assets/olympians.png";
 import theolympiansmall from "../assets/theolympiansmall.png";
 import kingCabana from "../assets/kingCabana.png";
+import scorers from "../assets/3scorerssignup.png";
 
 const Projects = () => {
   const projects = [
@@ -13,6 +14,14 @@ const Projects = () => {
       site: "https://kingcabana.com",
       repo: "https://github.com/King-cabana",
       img: kingCabana,
+    },
+    {
+      title: "3scorers Prediction",
+      description:
+        "A full CRUD test app to create user account, login, get users data, filter by roles: admin and user, search for users and admins by first name and/or last name; and several other features.",
+      site: "https://3scorersprediction.netlify.app",
+      repo: "https://github.com/JosiahENUMAH/3scorers-prediction",
+      img: scorers,
     },
     {
       title: "The Olympians Mall - ecommerce app",
