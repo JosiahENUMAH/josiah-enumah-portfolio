@@ -14,7 +14,7 @@ const Experience = () => {
           data-aos-duration="2000"
         >
           <div className="pb-1 md:pb-8">
-            <p className="text-2xl xs:text-4xl font-bold inline border-l-4 pl-6">
+            <p className="text-2xl xs:text-4xl  inline border-l-4 pl-6">
               <Typewriter
                 words={["Experience..."]}
                 loop={Infinity}
@@ -27,78 +27,84 @@ const Experience = () => {
 
           <div className="text-sm xs:text-xl">
             <p className="mt-1 lg:mt-10">
-              A Frontend Engineer at{" "}
+            Drawing from a rich reservoir of knowledge spanning diverse sectors, encompassing software engineering, product management, general management, among others, Josiah Enumah currently works as a Microsoft Technical Support Engineer at {" "}
               <span>
+                <a
+                  href="https://tek-experts.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className=" underline"
+                >
+                  Tek Experts,{" "}
+                </a>
+              </span>
+              where he consistently exceeds customer satisfaction, as well as quality metrics while demonstrating expertise in M365, Cloud & Cyber Security and Azure.
+            </p>
+            <br />
+            <p>
+            Prior to his current role, Josiah occupied the position of a Frontend Developer at {" "}
+            <span>
                 <a
                   href="https://kingcabana.com"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-gray-800 font-bold"
+                  className=" underline"
                 >
-                  King Cabana Limited{" "}
+                  King Cabana Limited,{" "}
+                </a>
+              </span>where he enhanced user experiences through JavaScript, Redux, and React.js, accelerating MVP launches and ensuring seamless frontend-backend integration. His international stint as a Front End Engineer at {" "}
+              <span>
+                <a
+                  href="https://www.linkedin.com/company/unfair-advantage/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="underline"
+                >
+                  Unfair Advantage{" "}
                 </a>
               </span>
-              - a Tech start up in the Event Management space, and worked with the product development team to build{" "}
+              in Helsinki, Finland, saw him optimizing the {""}
               <span>
                 <a
                   href="https://stafftribes.com"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-gray-800 font-bold"
+                  className=" underline"
                 >
-                  stafftribes.com{" "}
+                  Staff Tribes app{" "}
                 </a>
               </span>
-              (a social application) at{" "}
-              <span>
-                <a
-                  href="https://unfairadvantage.fi"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-gray-800 font-bold"
-                >
-                  Unfair Advantage{" "}
-                </a>
-              </span>
-              - an IT, HR and Event Services company in Helsinki, Finland; utilising
-              React.js, Meteor.js, HTML, CSS, JavaScript, Redux and other frameworks to develop
-              responsive UI, whilst integrating client to server side.
+              with Meteor.js and pioneering user-centric features.
             </p>
             <br />
             <p>
-              With vast experience in Tech, Josiah Enumah has worked as a
-              Computer Engineer at{" "}
+            His multifaceted career also includes roles such as Product Manager at {" "}
               <span>
                 <a
-                  href="https://slot.ng"
+                  href="https://www.google.com/maps/place/Triple+E+Diagnostics/@6.2533437,6.1948442,17z/data=!3m1!4b1!4m6!3m5!1s0x10414fdb59af3763:0x52e06890d21d744d!8m2!3d6.2533437!4d6.1948442!16s%2Fg%2F11rq0vs186?entry=ttu"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-gray-800 font-bold"
+                  className="underline"
                 >
-                  Slot Systems Limited
+                  Triple-E Diagnostics {" "}
                 </a>
               </span>
-              , a foremost IT company in Nigeria. The zeal to impact knowledge
-              led him to be an IT Engineer at Fenster Academy, a
-              Canadian-Nigerian Institution, where he trained employees and
-              students, whilst maintaining 50+ computer systems.
+              where he forged strategic partnerships and maximized SEO to drive website traffic, and Facilities Manager at {" "}
+              <span>
+                <a
+                  href="https://greenfacilitiesltd.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="underline"
+                >
+                  Green Facilities Limited, {" "}
+                </a>
+              </span> where he automated facility management processes and ensured operational excellence.
+             <br />
             </p>
             <br />
             <p>
-              A highly meticulous individual, with skills in the areas General
-              Management, he was a Product Manager for a Health-Tech company,{" "}
-              <span>
-                <a
-                  href="https://tripleediagnostics.business.site"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-gray-800 font-bold"
-                >
-                  Triple-E Diagnostics
-                </a>
-              </span>
-              , where he ensured organisational growth and attracted
-              partnerships with over 19 companies. <br />
+            Josiah has demonstrated leadership, problem-solving, and technical prowess throughout his career. His dedication to excellence, paired with a commitment to sustainable development goals, underscores his approach to every endeavor.
             </p>
           </div>
         </section>

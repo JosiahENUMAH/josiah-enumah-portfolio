@@ -26,6 +26,7 @@ const Home = () => {
                 " Product Manager",
                 "Project Manager",
                 "Program Manager",
+                "Facility Manager",
                 "General Manager",
               ]}
               loop={Infinity}

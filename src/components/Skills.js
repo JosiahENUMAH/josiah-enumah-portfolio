@@ -12,6 +12,9 @@ import node from "../assets/node.png";
 import mui from "../assets/mui.png";
 import sui from "../assets/sui.png";
 import redux from "../assets/redux.png";
+import figma from "../assets/figma.png";
+import azure from "../assets/azure.png";
+import m365 from "../assets/m365.png";
 
 const Skills = () => {
   const techs = [
@@ -73,7 +76,7 @@ const Skills = () => {
       id: 10,
       src: bootstrap,
       title: "Bootstrap",
-      style: "shadow-purple-600",
+      style: "shadow-purple-800",
     },
     {
       id: 11,
@@ -86,6 +89,24 @@ const Skills = () => {
       src: sui,
       title: "Semantic UI",
       style: "shadow-green-600",
+    },
+    {
+      id: 13,
+      src: figma,
+      title: "Figma",
+      style: "shadow-red-800",
+    },
+    {
+      id: 14,
+      src: azure,
+      title: "Azure",
+      style: "shadow-blue-800",
+    },
+    {
+      id: 15,
+      src: m365,
+      title: "M365",
+      style: "shadow-purple-400",
     },
   ];
 
